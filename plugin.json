@@ -1,10 +1,10 @@
 {
     "name": "Query Compressor",
-    "version": "0.0.2",
-    "description": "Memory recall based on conversation and not only based on the latest user message. Useful to reply to messages like `more about the second on the list`",
+    "version": "0.0.3",
+    "description": "Memory recall based on conversation and not only based on the latest user message. Useful for the Cat to understand to messages like `more about the second on the list`",
     "author_name": "Piero Savastano",
     "author_url": "https://cheshirecat.ai",
     "plugin_url": "https://github.com/pieroit/query_compressor",
     "tags": "query, recall, conversation, memory, context, compressor",
-    "thumb": "https://raw.githubusercontent.com/pieroiy/query_compressor/logo.png"
+    "thumb": "https://raw.githubusercontent.com/pieroit/query_compressor/main/logo.png"
 }
