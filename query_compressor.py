@@ -12,8 +12,8 @@ def cat_recall_query(user_message, cat):
     prompt = f"""Here is a conversation between an AI and a Human:
 {conversation_so_far}
 
-Sum up in a single sentence what the human wants, keeping all the details from the conversation.
-The sentence must be expressed from the point of view of the human.
+Sum up in a single sentence what the human wants in their own language, keeping all the details from the conversation.
+The sentence must be expressed from the point of view of the human. Beware of topic changes.
 
 Sentence: """
 
